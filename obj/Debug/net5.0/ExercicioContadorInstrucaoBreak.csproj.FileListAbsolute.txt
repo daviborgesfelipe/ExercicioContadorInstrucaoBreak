@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\bin\Debug\net5.0\ExercicioContadorInstrucaoBreak.exe
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\bin\Debug\net5.0\ExercicioContadorInstrucaoBreak.deps.json
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\bin\Debug\net5.0\ExercicioContadorInstrucaoBreak.runtimeconfig.json
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\bin\Debug\net5.0\ExercicioContadorInstrucaoBreak.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\bin\Debug\net5.0\ExercicioContadorInstrucaoBreak.dll
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\bin\Debug\net5.0\ref\ExercicioContadorInstrucaoBreak.dll
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\bin\Debug\net5.0\ExercicioContadorInstrucaoBreak.pdb
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\obj\Debug\net5.0\ExercicioContadorInstrucaoBreak.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\obj\Debug\net5.0\ExercicioContadorInstrucaoBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\obj\Debug\net5.0\ExercicioContadorInstrucaoBreak.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\obj\Debug\net5.0\ExercicioContadorInstrucaoBreak.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\obj\Debug\net5.0\ExercicioContadorInstrucaoBreak.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\obj\Debug\net5.0\ExercicioContadorInstrucaoBreak.dll
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\obj\Debug\net5.0\ref\ExercicioContadorInstrucaoBreak.dll
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\obj\Debug\net5.0\ExercicioContadorInstrucaoBreak.pdb
+C:\xampp\htdocs\udemy\ExercicioContadorInstrucaoBreak\obj\Debug\net5.0\ExercicioContadorInstrucaoBreak.genruntimeconfig.cache
